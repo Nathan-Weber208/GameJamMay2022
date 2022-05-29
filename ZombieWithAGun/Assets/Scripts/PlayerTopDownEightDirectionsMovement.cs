@@ -37,16 +37,7 @@ public class PlayerTopDownEightDirectionsMovement : MonoBehaviour
 
     private void Animate()
     {
-        float Horizontal = Input.GetAxisRaw("Horizontal");
-        float Vertical = Input.GetAxisRaw("Vertical");
-        if(Horizontal == 0 && Vertical == 0){
-            anim.SetFloat("MovementX", 0);
-            anim.SetFloat("MovementY", 0);
-        }
-        else{
-            anim.SetFloat("MovementX", MovementInput.x);
-            anim.SetFloat("MovementY", MovementInput.y);    
-        }
-        
+        anim.SetFloat("MovementX", MovementInput.x);
+        anim.SetFloat("MovementY", MovementInput.y);
     }
 }
