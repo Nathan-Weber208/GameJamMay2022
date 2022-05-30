@@ -369,7 +369,11 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+<<<<<<< HEAD:ZombieWithAGun/Assets/Scenes/SampleScene.unity
   m_Sprite: {fileID: 1227287474, guid: 17584ecf9afda984eb3a581be29cad27, type: 3}
+=======
+  m_Sprite: {fileID: -901723616, guid: 700cb9b2b93e70540b7247e22a4c94b1, type: 3}
+>>>>>>> parent of bea77ca (AI prototyping.):ZombieOnTheRun/Assets/Scenes/SampleScene.unity
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
