@@ -24,16 +24,21 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
+<<<<<<< HEAD:ZombieWithAGun/Assets/Animation/playerdown.anim
 <<<<<<<< HEAD:ZombieWithAGun/Assets/Animation/playerdown.anim
 <<<<<<< HEAD:ZombieOnTheRun/Assets/Animation/PRight.anim
       value: {fileID: -1897989172, guid: 3f2bf6983fc45c34aba0e32f681ce10c, type: 3}
+=======
+      value: {fileID: -163081924, guid: 700cb9b2b93e70540b7247e22a4c94b1, type: 3}
+>>>>>>> parent of e74e976 (visual magic and new pixel art):ZombieOnTheRun/Assets/Animation/PRight.anim
     - time: 0.083333336
-      value: {fileID: 43937853, guid: 3f2bf6983fc45c34aba0e32f681ce10c, type: 3}
+      value: {fileID: -1195443260, guid: 700cb9b2b93e70540b7247e22a4c94b1, type: 3}
     - time: 0.16666667
-      value: {fileID: -1521694015, guid: 3f2bf6983fc45c34aba0e32f681ce10c, type: 3}
+      value: {fileID: 68093794, guid: 700cb9b2b93e70540b7247e22a4c94b1, type: 3}
     - time: 0.25
-      value: {fileID: 1786029699, guid: 3f2bf6983fc45c34aba0e32f681ce10c, type: 3}
+      value: {fileID: 1232052608, guid: 700cb9b2b93e70540b7247e22a4c94b1, type: 3}
     - time: 0.33333334
+<<<<<<< HEAD:ZombieWithAGun/Assets/Animation/playerdown.anim
       value: {fileID: -1897989172, guid: 3f2bf6983fc45c34aba0e32f681ce10c, type: 3}
 =======
       value: {fileID: 1227287474, guid: 17584ecf9afda984eb3a581be29cad27, type: 3}
@@ -41,6 +46,9 @@ AnimationClip:
 ========
       value: {fileID: -772489787, guid: 17584ecf9afda984eb3a581be29cad27, type: 3}
 >>>>>>>> 9d2f1a3d666e1573a32c324e42454f792fa1e403:ZombieWithAGun/Assets/Animation/playerdownright.anim
+=======
+      value: {fileID: -163081924, guid: 700cb9b2b93e70540b7247e22a4c94b1, type: 3}
+>>>>>>> parent of e74e976 (visual magic and new pixel art):ZombieOnTheRun/Assets/Animation/PRight.anim
     attribute: m_Sprite
     path: sprite
     classID: 212
@@ -60,6 +68,7 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
+<<<<<<< HEAD:ZombieWithAGun/Assets/Animation/playerdown.anim
 <<<<<<<< HEAD:ZombieWithAGun/Assets/Animation/playerdown.anim
 <<<<<<< HEAD:ZombieOnTheRun/Assets/Animation/PRight.anim
     - {fileID: -1897989172, guid: 3f2bf6983fc45c34aba0e32f681ce10c, type: 3}
@@ -73,6 +82,13 @@ AnimationClip:
 ========
     - {fileID: -772489787, guid: 17584ecf9afda984eb3a581be29cad27, type: 3}
 >>>>>>>> 9d2f1a3d666e1573a32c324e42454f792fa1e403:ZombieWithAGun/Assets/Animation/playerdownright.anim
+=======
+    - {fileID: -163081924, guid: 700cb9b2b93e70540b7247e22a4c94b1, type: 3}
+    - {fileID: -1195443260, guid: 700cb9b2b93e70540b7247e22a4c94b1, type: 3}
+    - {fileID: 68093794, guid: 700cb9b2b93e70540b7247e22a4c94b1, type: 3}
+    - {fileID: 1232052608, guid: 700cb9b2b93e70540b7247e22a4c94b1, type: 3}
+    - {fileID: -163081924, guid: 700cb9b2b93e70540b7247e22a4c94b1, type: 3}
+>>>>>>> parent of e74e976 (visual magic and new pixel art):ZombieOnTheRun/Assets/Animation/PRight.anim
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
