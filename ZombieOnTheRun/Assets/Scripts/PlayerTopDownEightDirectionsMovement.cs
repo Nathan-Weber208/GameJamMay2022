@@ -40,10 +40,12 @@ public class PlayerTopDownEightDirectionsMovement : MonoBehaviour
         float Horizontal = Input.GetAxisRaw("Horizontal");
         float Vertical = Input.GetAxisRaw("Vertical");
         if(Horizontal == 0 && Vertical == 0){
-            anim.SetFloat("MovementX", 0);
-            anim.SetFloat("MovementY", 0);
+            anim.SetFloat("Run", 0);
+            anim.SetFloat("MovementX", MovementInput.x);
+            anim.SetFloat("MovementY", MovementInput.y);  
         }
         else{
+            anim.SetFloat("Run", 1);
             anim.SetFloat("MovementX", MovementInput.x);
             anim.SetFloat("MovementY", MovementInput.y);    
         }
