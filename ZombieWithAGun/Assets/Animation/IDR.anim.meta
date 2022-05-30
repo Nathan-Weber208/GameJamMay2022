@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:ZombieWithAGun/Assets/Animation/IDR.anim.meta
 guid: a806a6d75409ec948a62193c63a4896c
+========
+guid: e8af89200a6d57241957884eba66edab
+>>>>>>>> 9d2f1a3d666e1573a32c324e42454f792fa1e403:ZombieWithAGun/Assets/Animation/playerdown.anim.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 7400000

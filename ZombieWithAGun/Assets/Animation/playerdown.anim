@@ -6,7 +6,11 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<<< HEAD:ZombieWithAGun/Assets/Animation/playerdown.anim
   m_Name: playerdown
+========
+  m_Name: playerdownright
+>>>>>>>> 9d2f1a3d666e1573a32c324e42454f792fa1e403:ZombieWithAGun/Assets/Animation/playerdownright.anim
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,6 +24,7 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
+<<<<<<<< HEAD:ZombieWithAGun/Assets/Animation/playerdown.anim
 <<<<<<< HEAD:ZombieOnTheRun/Assets/Animation/PRight.anim
       value: {fileID: -1897989172, guid: 3f2bf6983fc45c34aba0e32f681ce10c, type: 3}
     - time: 0.083333336
@@ -33,6 +38,9 @@ AnimationClip:
 =======
       value: {fileID: 1227287474, guid: 17584ecf9afda984eb3a581be29cad27, type: 3}
 >>>>>>> 9d2f1a3d666e1573a32c324e42454f792fa1e403:ZombieWithAGun/Assets/Animation/playerdown.anim
+========
+      value: {fileID: -772489787, guid: 17584ecf9afda984eb3a581be29cad27, type: 3}
+>>>>>>>> 9d2f1a3d666e1573a32c324e42454f792fa1e403:ZombieWithAGun/Assets/Animation/playerdownright.anim
     attribute: m_Sprite
     path: sprite
     classID: 212
@@ -52,6 +60,7 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
+<<<<<<<< HEAD:ZombieWithAGun/Assets/Animation/playerdown.anim
 <<<<<<< HEAD:ZombieOnTheRun/Assets/Animation/PRight.anim
     - {fileID: -1897989172, guid: 3f2bf6983fc45c34aba0e32f681ce10c, type: 3}
     - {fileID: 43937853, guid: 3f2bf6983fc45c34aba0e32f681ce10c, type: 3}
@@ -61,6 +70,9 @@ AnimationClip:
 =======
     - {fileID: 1227287474, guid: 17584ecf9afda984eb3a581be29cad27, type: 3}
 >>>>>>> 9d2f1a3d666e1573a32c324e42454f792fa1e403:ZombieWithAGun/Assets/Animation/playerdown.anim
+========
+    - {fileID: -772489787, guid: 17584ecf9afda984eb3a581be29cad27, type: 3}
+>>>>>>>> 9d2f1a3d666e1573a32c324e42454f792fa1e403:ZombieWithAGun/Assets/Animation/playerdownright.anim
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}

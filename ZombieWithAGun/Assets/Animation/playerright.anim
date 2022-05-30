@@ -6,7 +6,11 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<<< HEAD:ZombieWithAGun/Assets/Animation/playerright.anim
   m_Name: playerright
+========
+  m_Name: Playerup
+>>>>>>>> 9d2f1a3d666e1573a32c324e42454f792fa1e403:ZombieWithAGun/Assets/Animation/Playerup.anim
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,7 +24,11 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
+<<<<<<<< HEAD:ZombieWithAGun/Assets/Animation/playerright.anim
       value: {fileID: 1445279188, guid: 17584ecf9afda984eb3a581be29cad27, type: 3}
+========
+      value: {fileID: 452897764, guid: 17584ecf9afda984eb3a581be29cad27, type: 3}
+>>>>>>>> 9d2f1a3d666e1573a32c324e42454f792fa1e403:ZombieWithAGun/Assets/Animation/Playerup.anim
     attribute: m_Sprite
     path: sprite
     classID: 212
@@ -40,7 +48,11 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
+<<<<<<<< HEAD:ZombieWithAGun/Assets/Animation/playerright.anim
     - {fileID: 1445279188, guid: 17584ecf9afda984eb3a581be29cad27, type: 3}
+========
+    - {fileID: 452897764, guid: 17584ecf9afda984eb3a581be29cad27, type: 3}
+>>>>>>>> 9d2f1a3d666e1573a32c324e42454f792fa1e403:ZombieWithAGun/Assets/Animation/Playerup.anim
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
